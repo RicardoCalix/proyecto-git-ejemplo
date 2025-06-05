@@ -1,1 +1,2 @@
-Contiene documentación general del proyecto
+Contiene documentación general del proyecto 
+Comentarios iniciales
