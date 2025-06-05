@@ -1,0 +1,9 @@
+Manual de Usuario - Proyecto Git
+
+1. Introducción
+   Este documento describe cómo utilizar el sistema de ejemplo.
+
+2. Instrucciones
+   - Abrir el archivo principal.
+   - Editar el contenido.
+   - Guardar y subir los cambios a GitHub.

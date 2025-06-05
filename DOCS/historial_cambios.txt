@@ -1,0 +1,5 @@
+Historial de Cambios
+
+- 2024-05-01: Creación inicial del proyecto.
+- 2024-06-04: Agregado contenido de prueba para práctica.
+- 2024-06-05: Sección de documentación actualizada.

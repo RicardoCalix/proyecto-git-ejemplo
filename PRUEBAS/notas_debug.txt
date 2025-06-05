@@ -1,0 +1,5 @@
+Notas de depuración
+
+- Verificar estructura de carpetas antes de subir.
+- GitHub Desktop muestra los cambios correctamente.
+- No olvidar hacer Pull antes de Push.
