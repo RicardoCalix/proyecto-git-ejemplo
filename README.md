@@ -1,2 +1,1 @@
-# proyecto-git-ejemplo
-Solo es un ejemplo como tarea
+Este es el archivo de inicio del proyecto
